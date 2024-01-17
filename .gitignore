@@ -1,0 +1,8 @@
+png
+.png
+/data
+.gz
+cifar-10-python
+progress/data/cifar-10-python.tar.gz
+progress/data/cifar-10-batches-py
+progress/data/
